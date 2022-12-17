@@ -12,12 +12,12 @@ Description: Cyclistic company had low effective marketing strategy and did not 
 ## Technologies which I use
 
 <div>
-  <img src ="./Images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="./Images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="./Images/mysql.svg" alt="mysql logo" width="3%" title='MYSQL'/>
-  <img src ="./Images/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server logo" width="3%" title='Microsoft SQL Server'/>
-  <img src ="./Images/R_logo.svg.png" alt="r" width="3%" title='R'/>
-  <img src ="./Images/google-bigquery-logo-1.svg" alt="BigQuery logo" width="3%" title='BigQuery'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
+  <img src ="./images/microsoft-sql-server.svg" alt="Microsoft SQL Server logo" width="5%" title='Microsoft SQL Server'/>
+  <img src ="./images/r.png" alt="r" width="5%" title='R'/>
+  <img src ="./images/bigquery.svg" alt="BigQuery logo" width="5%" title='BigQuery'/>
 </div>
 
 <div>
