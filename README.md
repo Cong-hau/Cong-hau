@@ -24,5 +24,5 @@ Tools
   <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
   <img src ="./images/tableau.svg" alt="Tableau logo" width="5%" title='Tableau'/>
   <img src ="./images/microsoft-excel.svg" alt="MS Excel logo" width="8%" title='MS Excel'/>
-  <img src ="./images/microsoft-powerpoint.svg" alt="MS PowerPoint logo" width="8%" title='MS PowerPoint'/>
+  <img src ="./images/microsoft-powerpoint.png" alt="MS PowerPoint logo" width="5%" title='MS PowerPoint'/>
 </div>
