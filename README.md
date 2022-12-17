@@ -16,16 +16,13 @@ Description: Cyclistic company had low effective marketing strategy and did not 
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/microsoft-sql-server.svg" alt="Microsoft SQL Server logo" width="5%" title='Microsoft SQL Server'/>
-  <img src ="./images/r.png" alt="r" width="5%" title='R'/>
   <img src ="./images/bigquery.svg" alt="BigQuery logo" width="5%" title='BigQuery'/>
+  <img src ="./images/r.png" alt="r" width="5%" title='R'/>
 </div>
-
+Tools
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
-  Tableau
-  Excel
-  Power Point
-  SSMS
-  BigQuery
-  R Studio
+  <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
+  <img src ="./images/tableau.svg" alt="Tableau logo" width="5%" title='Tableau'/>
+  <img src ="./images/microsoft-excel.svg" alt="MS Excel logo" width="8%" title='MS Excel'/>
+  <img src ="./images/microsoft-powerpoint.svg" alt="MS PowerPoint logo" width="8%" title='MS PowerPoint'/>
 </div>
