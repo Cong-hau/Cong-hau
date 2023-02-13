@@ -13,7 +13,12 @@ Description:
 ### Project 2: [E-commerce flatforms](https://github.com/Cong-hau/E-commerce-flatform)
 
 Description: Use data from business reports, orders dataset, customer dataset to analyze user's behaviors, find the insights to improve customer satisfaction. Used to Python programing and Power BI to create data visualizations.
-### Project 3: [Bike Share company and their problems in marketing strategy](https://github.com/Cong-hau/Bike-Share-company-and-their-problems-in-marketing-strategy)
+
+### Project 3: [HR Sale policies](https://github.com/Cong-hau/vf-hr-sale-policy-vnese-version/blob/97da57c687869ba6e7a3a750eede9ff17c11e6dc/README.md)
+
+Description: 
+
+### Project 4: [Bike Share company and their problems in marketing strategy](https://github.com/Cong-hau/Bike-Share-company-and-their-problems-in-marketing-strategy)
 
 Description: Cyclistic company had low effective marketing strategy and did not have significant impact in growth rates, revenue. The Goals: design marketing strategies aimed at improving marketing effective by converting casual riders into annual members by figuring out the difference behaviours of users. Based on 6 stages of Google Data Analysis Process: Ask, Prepare, Process, Analyze, Share, Act, I solved the problem step by step.
 
