@@ -22,8 +22,14 @@ I am motivated, detail-oriented, entry-level data analytics and fascinated at In
 - Objectives: What are factors significantly influence  decision to get Vehicle Sale Executive job? Compare the real factors of a particular company to other companies. 
 - How: Using research, survey method to get data. Using MS Excel to process, transform and generate data visualizations. Using SPSS to calculate statistics and measure reliability of survey results.
 
+### Project 4: [Performance Analyzing when working from home in the COVID-19 pandemic period](https://digital.lib.ueh.edu.vn/viewer/simple_document.php?subfolder=12/79/89/&doc=127989466505010879677941832649475720631&bitsid=1f480e14-174d-4835-88b2-359fe63151d3&uid=fa75c231-a8ec-4a8a-8688-4f3d36bde6e4)
 
-### Project 4: [Marketing Analyzing of a Bike Share Company](https://github.com/Cong-hau/Bike-Share-company-and-their-problems-in-marketing-strategy)
+- My Master Business Administrator’s Thesis.
+- Objectives: Analyze and recognize what factors significantly affect to work performance  when working from home in the lockdown period because of COVID-19 in Viet Nam. Give recommendations to improve the performance. 
+- How: Using qualitative research method to propose theoretical bases and research model. Using quantitative research, survey conducting, SPSS to assess factors influence, measure reliability, correlation coefficients. Using group discussion to make recommendations. 
+
+
+### Project 5: [Marketing Analyzing of a Bike Share Company](https://github.com/Cong-hau/Bike-Share-company-and-their-problems-in-marketing-strategy)
 
 - A case study from Google Data Analytics Professional course.
 - Objectives: Design marketing strategies aimed at converting casual riders into annual members through getting insights: How different of behaviors between annual member and casual riders. 
