@@ -8,21 +8,27 @@ I am motivated, detail-oriented, entry-level data analytics and fascinated at In
 
 ### Project 1: [Old Car Market Analyzing](https://github.com/Cong-hau/analyze-old-car-selling-posts)
 
-Description: 
 - Objectives: How is the selling old car volume? What brand of car, car model is posted to sell the most, group by time,  city or district in Ho Chi Minh city? Which car tend to sell the most from 2020 to 2022? 
-- o	How: Using Python to scrap data from E-commerce vehicle flatforms (Chotot.vn, Oto.com.vn) and process data for analytics. Using Tableau to make data visualization, dashboards. Combine with data from Vietnam Automobile Manufacturers' Association’s sales reports to extract insights.
+- How: Using Python to scrap data from E-commerce vehicle flatforms (Chotot.vn, Oto.com.vn) and process data for analytics. Using Tableau to make data visualization, dashboards. Combine with data from Vietnam Automobile Manufacturers' Association’s sales reports to extract insights.
 
 ### Project 2: [E-commerce flatforms](https://github.com/Cong-hau/E-commerce-flatform)
 
-Description: Use data from business reports, orders dataset, customer dataset to analyze user's behaviors, find the insights to improve customer satisfaction. Used to Python programing and Power BI to create data visualizations.
+- A case study from Mind-X course.
+- Objectives: Prepare presentation materials about operation overall: order, user, product;  customer satisfaction: review, comment ;and recommendations where should to improve.
+- How: Using Python to explore, clean and transform data. Using Power BI to make data visualization and extract insights.
 
 ### Project 3: [HR Sale policies](https://github.com/Cong-hau/vf-hr-sale-policy-vnese-version/blob/97da57c687869ba6e7a3a750eede9ff17c11e6dc/README.md)
 
-Description: 
+- Objectives: What are factors significantly influence  decision to get Vehicle Sale Executive job? Compare the real factors of a particular company to other companies. 
+- How: Using research, survey method to get data. Using MS Excel to process, transform and generate data visualizations. Using SPSS to calculate statistics and measure reliability of survey results.
+
 
 ### Project 4: [Bike Share company and their problems in marketing strategy](https://github.com/Cong-hau/Bike-Share-company-and-their-problems-in-marketing-strategy)
 
-Description: Cyclistic company had low effective marketing strategy and did not have significant impact in growth rates, revenue. The Goals: design marketing strategies aimed at improving marketing effective by converting casual riders into annual members by figuring out the difference behaviours of users. Based on 6 stages of Google Data Analysis Process: Ask, Prepare, Process, Analyze, Share, Act, I solved the problem step by step.
+- A case study from Google Data Analytics Professional course.
+- Objectives: Design marketing strategies aimed at converting casual riders into annual members through getting insights: How different of behaviors between annual member and casual riders. 
+- How: Using MS SQL to query data from data sources, clean, check data integrity, transform data. Using Pivot Table Excel to visualize data trend and extract recognize user’s behavior.
+
 
 ## Technologies which I use
 
