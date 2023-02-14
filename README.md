@@ -8,7 +8,9 @@ I am motivated, detail-oriented, entry-level data analytics and fascinated at In
 
 ### Project 1: [Old Car Market Analyzing](https://github.com/Cong-hau/analyze-old-car-selling-posts)
 
-Description:
+Description: 
+- Objectives: How is the selling old car volume? What brand of car, car model is posted to sell the most, group by time,  city or district in Ho Chi Minh city? Which car tend to sell the most from 2020 to 2022? 
+- o	How: Using Python to scrap data from E-commerce vehicle flatforms (Chotot.vn, Oto.com.vn) and process data for analytics. Using Tableau to make data visualization, dashboards. Combine with data from Vietnam Automobile Manufacturers' Association’s sales reports to extract insights.
 
 ### Project 2: [E-commerce flatforms](https://github.com/Cong-hau/E-commerce-flatform)
 
